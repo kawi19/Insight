@@ -42,16 +42,16 @@ On benchmark data, we show that CFM provides performance on classification, segm
 ---
 ## Code
  
-Code is available soon, stay tuned!
+Code will be available soon, stay tuned!
 
 ---
 ## Citation
 
-If you find this work useful, please cite the arXiv preprint:
+If you find this work useful, please cite the following arXiv preprint:
 
 ```tex
 @article{wittenmayer2026insight,
-  title  = {Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders},
+  title  = {CFM: Language-aligned Concept Foundation Model for Vision},
   author = {Wittenmayer, Kai and Rao, Sukrut and Parchami-Araghi, Amin and Schiele, Bernt and Fischer, Jonas},
   journal = {arXiv preprint arXiv:2601.13798},
   year   = {2026}
