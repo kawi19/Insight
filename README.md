@@ -50,8 +50,8 @@ Code will be available soon, stay tuned!
 If you find this work useful, please cite the following arXiv preprint:
 
 ```tex
-@article{wittenmayer2026insight,
-  title  = {CFM: Language-aligned Concept Foundation Model for Vision},
+@article{wittenmayer2026cfm,
+  title  = {{CFM}: Language-aligned Concept Foundation Model for Vision},
   author = {Wittenmayer, Kai and Rao, Sukrut and Parchami-Araghi, Amin and Schiele, Bernt and Fischer, Jonas},
   journal = {arXiv preprint arXiv:2601.13798},
   year   = {2026}
